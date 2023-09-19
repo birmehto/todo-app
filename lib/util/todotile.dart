@@ -14,7 +14,7 @@ class todotile extends StatelessWidget {
         child: Row(
           children: [
             //  Checkbox(value: value, onChanged: onChanged),
-            Text('This is My to do '),
+            Text('This is My to do App'),
           ],
         ),
         decoration: BoxDecoration(
